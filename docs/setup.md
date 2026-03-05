@@ -14,11 +14,12 @@ But anyways day one to two is all about setting up and understanding what I'm he
         4.1. MITRE ATT&CK® - (Adversarial Tactics, Techniques, and Common Knowledge) is a comprehensive, globally accessible knowledge base of  adversary behaviors based on real-world observations. 
         4.2. Mapping - MITRE ATT&CK Mapping is a process of aligning observed threat data, security controls, and defensive tools with the MITRE ATT&CK framework 
 
-        **Thus**
-             MITRE ATT&CK for ICS is a specialized, open-source framework mapping adversary behaviors specifically to Industrial Control Systems (ICS) and Operational Technology (OT) environments.
+Thus
+
+MITRE ATT&CK for ICS is a specialized, open-source framework mapping adversary behaviors specifically to Industrial Control Systems (ICS) and Operational Technology (OT) environments.
 
 # What's the heck is that about, dfk? 
-    Now, per keyword, actively searching for threats within Industrial Control Systems using Sysmon and Modbus and then aligning it to the MITRE ATT&CK Matrix for da "real-world" thing or something. 
+ Now, per keyword, actively searching for threats within Industrial Control Systems using Sysmon and Modbus and then aligning it to the MITRE ATT&CK Matrix for da "real-world" thing or something. 
 
 # Timeline and Computing Power
     I am not smart, things will take time. 
